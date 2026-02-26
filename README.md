@@ -77,8 +77,7 @@ AK --> AI
 
 %% EXAM ATTENDANCE
 R --> AL[Select Exam & Subject]
-AL --> AM[Mark Present / Absent]
-AM --> AI
+AL --> AI
 
 %% REPORTS
 AI --> AN[Generate Reports]
