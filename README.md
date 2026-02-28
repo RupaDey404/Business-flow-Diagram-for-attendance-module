@@ -16,7 +16,7 @@ C --> G[Set Absent Time]
 C --> H[Configure Shift]
 C --> I[Enable Biometric or Manual Mode]
 C --> J[Enable Rolewise Staff Attendance]
-C --> K[Enable Multiguardian Notification]
+C --> K[Enable guardian Notification]
 
 D --> L[Save Setup]
 E --> L
